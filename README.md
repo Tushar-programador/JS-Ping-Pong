@@ -31,8 +31,6 @@ Contributions are welcome! Here's how you can contribute:
 4. Push to the branch: `git push origin feature`
 5. Submit a pull request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 Built by [Tushar](https://github.com/Tushar-programador)<!-- Add your GitHub profile link -->
