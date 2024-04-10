@@ -35,7 +35,7 @@ Contributions are welcome! Here's how you can contribute:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
-- Built by [Tushar](#) <!-- Add your GitHub profile link -->
+- Built by [Tushar](#https://github.com/Tushar-programador) <!-- Add your GitHub profile link -->
 - Inspired by the classic game of Pong
 
 
