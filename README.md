@@ -15,7 +15,7 @@ This is a simple Pong game built using HTML Canvas and JavaScript. Pong is a cla
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your_username/pong-game.git`
+1. Clone the repository: `https://github.com/Tushar-programador/JS-Ping-Pong.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
