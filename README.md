@@ -11,7 +11,7 @@ This is a simple Pong game built using HTML Canvas and JavaScript. Pong is a cla
 - Play again functionality
 
 ## Demo
-[Link to Demo](#https://tushar-programador.github.io/JS-Ping-Pong/) <!-- Add a link to a live demo if available -->
+[Link to Demo](https://tushar-programador.github.io/JS-Ping-Pong/) <!-- Add a link to a live demo if available -->
 
 
 ## Installation
@@ -35,7 +35,7 @@ Contributions are welcome! Here's how you can contribute:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
-- Built by [Tushar](#https://github.com/Tushar-programador) <!-- Add your GitHub profile link -->
+Built by [Tushar](https://github.com/Tushar-programador)<!-- Add your GitHub profile link -->
 - Inspired by the classic game of Pong
 
 
